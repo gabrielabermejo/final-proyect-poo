@@ -1,6 +1,6 @@
 # final-proyect-poo
 proyecto final de programación
-![image](https://user-images.githubusercontent.com/98917590/164473979-67e5c93a-93d7-4448-8881-d5c41cd0156f.png)
+![image](https://user-images.githubusercontent.com/98917590/164474272-df1ee49a-fa65-4972-ae87-599ba00759fa.png)
 
 
 REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES
